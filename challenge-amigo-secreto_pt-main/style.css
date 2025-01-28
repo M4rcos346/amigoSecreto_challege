@@ -88,8 +88,8 @@ body {
 }
 
 .button-container {
-    width: 300px;
-    justify-content: center;
+    display: flex; /* Usar flexbox para alinhar os botões */
+    gap: 10px; /* Espaçamento entre os botões */
 }
 
 /* Estilos de entrada de texto */
@@ -144,17 +144,18 @@ ul {
 
 /* Botão de sortear título */
 .button-draw {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    padding: 10px 40px;
-    color: var(--color-white);
-    background-color: var(--color-button);
-    font-size: 16px;
+    display: flex; 
+    align-items: center; 
+    padding: 10px 15px; 
+    background-color: #007BFF; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
 }
 
 .button-draw img {
-    margin-right: 40px;
+    margin-right: 5px;
 }
 
 .button-draw:hover {
