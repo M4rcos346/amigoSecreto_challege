@@ -31,7 +31,7 @@
 
 * [Código Fonte](https://github.com/M4rcos346/amigoSecreto_challege)
 
-* [Baixar Projeto](https://github.com/M4rcos346/amigoSecreto_challege)
+* [Baixar Projeto](https://github.com/M4rcos346/amigoSecreto_challege/archive/refs/heads/main.zip)
 
 * [Acesso do Site do Projeto](https://amigosecreto-eta.vercel.app/)
 
